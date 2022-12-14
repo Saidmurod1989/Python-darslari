@@ -1,0 +1,17 @@
+#  num = pow(2,3,2)
+# # # print(num)
+# # # oxiridagi sonni vazifasi qoldiq 
+# # # num = pow(2,4,5)
+# # # print(num)
+# # # num = pow(3,3,5)
+# # # print(num)
+
+
+
+
+
+
+
+
+
+
