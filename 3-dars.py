@@ -16,6 +16,14 @@
 # pow metodi -  darajaga oshiruvchi - 2*2*2 = 8
 # num = pow(2,3,2)
 # print(num)
+# num = pow(2,3,2)
+# print(num)
+
+
+
+
+
+
 
 
 
