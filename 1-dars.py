@@ -78,4 +78,6 @@
 # print(ism , yosh)
 
 
-
+############
+# print ("To'qqizning kvadrati"'9**2')
+# print(aprint)
